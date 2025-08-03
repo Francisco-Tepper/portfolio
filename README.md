@@ -20,17 +20,17 @@ Este dashboard permite analizar el comportamiento de las ventas de productos con
 
 Este dashboard permite analizar el comportamiento de las ventas de productos congelados a lo largo del año, tanto a nivel general como por vendedor, grupo de productos y cliente. Además, se incluyen indicadores de cumplimiento de metas, ticket promedio y alertas en tiempo real.
 
-Figura 1: Panel de resumen de ventas, metas y comparativa anual.
+**Figura 1: Panel de resumen de ventas, metas y comparativa anual.**
 
 ![Ventas](Captura%20de%20pantalla%202025-07-27%20172121.png)
 
-Figura 2: Evolución mensual de ventas vs número de clientes.
+**Figura 2: Evolución mensual de ventas vs número de clientes.**
 
-![Ventas vs Clientes](Captura%de%pantalla%2025-07-27%172232.png)
+![Ventas vs Clientes](Captura%20de%20pantalla%202025-07-27%20172232.png)
 
-Figura 3: Ranking de productos más vendidos.
+**Figura 3: Ranking de productos más vendidos.**
 
-![Ranking Productos](Captura%de%pantalla%2025-07-27%172345.png)
+![Ranking Productos](Captura%20de%20pantalla%202025-07-27%20172345.png)
 
 
 # Tecnologías Utilizadas
