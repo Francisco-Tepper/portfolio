@@ -22,7 +22,7 @@ Este dashboard permite analizar el comportamiento de las ventas de productos con
 
 Figura 1: Panel de resumen de ventas, metas y comparativa anual.
 
-![Evolución Ventas](Captura%de%pantalla%2025-07-27%172121.png)
+![Ventas](Captura%20de%20pantalla%202025-07-27%20172121.png)
 
 Figura 2: Evolución mensual de ventas vs número de clientes.
 
