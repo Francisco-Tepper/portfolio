@@ -12,9 +12,6 @@ Este sitio tiene como objetivo exhibir un portafolio de proyectos relacionados a
 clientes, etc.
 -Como herramientas se usan archivos csv de base con datos estructurados, Python para automatización y limpieza de los datos, POstgresSQL para estandarizar y almacenar los datos y Power BI para visualizar gráficamente y poder compartir esos datos transformandolos en información accionable y autoexplicativa.
 
-# Proyecto 1: Dashboard de Ventas - Alimentos Congelados 
-
-Este dashboard permite analizar el comportamiento de las ventas de productos congelados a lo largo del año, tanto a nivel general como por vendedor, grupo de productos y cliente. Además, se incluyen indicadores de cumplimiento de metas, ticket promedio y alertas en tiempo real.
 
 # Proyecto 1: Dashboard de Ventas - Alimentos Congelados 
 
@@ -24,13 +21,18 @@ Este dashboard permite analizar el comportamiento de las ventas de productos con
 
 ![Ventas](Captura%20de%20pantalla%202025-07-27%20172121.png)
 
+
+
 **Figura 2: Evolución mensual de ventas vs número de clientes.**
 
 ![Ventas vs Clientes](Captura%20de%20pantalla%202025-07-27%20172232.png)
 
+
+
 **Figura 3: Ranking de productos más vendidos.**
 
 ![Ranking Productos](Captura%20de%20pantalla%202025-07-27%20172345.png)
+
 
 
 # Tecnologías Utilizadas
