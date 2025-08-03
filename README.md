@@ -49,10 +49,7 @@ Este dashboard permite analizar el comportamiento de las ventas de productos con
 4. Aplicar filtros por grupo, año o mes según sea necesario.
 
 # Enlaces Relevantes
-Repositorio en GitHub: [Agrega aquí tu enlace]
-Proyecto alojado en GitHub Pages o Netlify: [Agrega aquí tu enlace]
-Video Técnico en YouTube: [Agrega aquí tu enlace]
-
+Repositorio en GitHub: (https://github.com/Francisco-Tepper/portfolio/blob/main/README.md)
 
 # Conclusión
 Este proyecto demuestra la utilidad de Power BI para analizar y visualizar datos de ventas de productos congelados, permitiendo tomar decisiones basadas en datos reales. El uso de herramientas modernas y el enfoque orientado a negocio hacen de este dashboard una solución valiosa para áreas comerciales y de dirección.
