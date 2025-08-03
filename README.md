@@ -18,12 +18,15 @@ Este dashboard permite analizar el comportamiento de las ventas de productos con
 
 Figura 1: Panel de resumen de ventas, metas y comparativa anual.
 
+![Evolución Ventas](Captura de pantalla 2025-07-27 172121.png)
 
 Figura 2: Evolución mensual de ventas vs número de clientes.
 
+![Evolución Ventas](Captura de pantalla 2025-07-27 172232.png)
 
 Figura 3: Ranking de productos más vendidos.
 
+![Evolución Ventas](Captura de pantalla 2025-07-27 172345.png)
 
 # Tecnologías Utilizadas
 - Power BI (DAX, modelado de datos, diseño visual)
